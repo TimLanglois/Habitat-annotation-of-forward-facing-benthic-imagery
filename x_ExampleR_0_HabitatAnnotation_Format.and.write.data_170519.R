@@ -1,5 +1,4 @@
 ###### Importing Habitat Annotation points from TransectMeasure (Stereo)----
-#Test
 
 ### Written by Tim Langlois 
 ### Any errors are due to Tim Langlois
